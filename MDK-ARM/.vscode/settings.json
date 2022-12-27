@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "print.h": "c",
+        "delay.h": "c",
+        "ps2.h": "c"
+    }
+}
